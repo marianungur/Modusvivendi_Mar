@@ -836,7 +836,7 @@ stroke-linejoin: miter;
 <path clip-path="url(#c0)" d="M862.6,704h65.8V688.8H862.6V704Z" class="g0"/>
 <path clip-path="url(#c1)" d="M45.1,37.8H378.4M147.9,56.5h63.9" class="g5"/>
 <path d="M55.7,199.8h53.9m29.6,0h69.3m370.8,0h53.9m33.8,0h69.3" class="g6"/>
-<path d="M178,243.1H307.1" class="g7"/>
+<path d="M178,243.1H307.1" class="g0"/>
 <path d="M562.1,243.5h69.3" class="g8"/>
 <path d="M173.8,263.2h47.7m0,0h47.6m0,0h51.2m0,0h47.6m238.4,0H654m0,0h47.6m0,0h47.7m0,0H797" class="g9"/>
 <path d="M177.1,260.3H277.2" class="ga"/>
